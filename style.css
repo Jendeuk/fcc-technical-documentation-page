@@ -52,6 +52,7 @@ section > li {
     border-right: solid;
     border-color: rgba(0, 22, 22, 0.4);
     height: 100%;
+    width: 30%;
     background-color: #d6d9db;
 }
 
